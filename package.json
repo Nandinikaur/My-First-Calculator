@@ -1,0 +1,19 @@
+{
+  "name": "n838calculator-project",
+  "version": "2.0.3",
+  "description": "making my first ever calculator project with Typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "Bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nandini kaur",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
